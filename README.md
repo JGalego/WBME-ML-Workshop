@@ -68,7 +68,7 @@ In this workshop, we will give an overview of what ML is, highlighting some of i
         - **(Steiner *et al.*, 2018; Wu *et al.*, 2019)** Oncology: Breast Cancer Screening
         - **(Harutyunyan *et al.*, 2019)** General Practice: Clinical Event Prediction
         - **(Libbrecht & Noble, 2019; Zou *et al.*, 2019)** AI/ML in Genetics and Genomics
-        - **(Zhou *et al.*, 2020)** AI/ML in Surgery: Pre-Operative Planning, Intra-Operative Guidance and Surgical Robots
+        - **(Zhou *et al.*, 2020)** Surgery: Pre-Operative Planning, Intra-Operative Guidance and Surgical Robots
         - **(AWS)** NLP in Healthcare: [Amazon Comprehend Medical](https://aws.amazon.com/comprehend/medical/)
         - **(Harmon *et al.*, 2020)** COVID-19 Diagnosis
         - **(Yan *et al.*, 2020)** COVID-19 Prognosis

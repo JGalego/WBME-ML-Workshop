@@ -168,6 +168,8 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
 
 **Libbrecht, M. & Noble, S. (2015).** Machine learning applications in genetics and genomics. *Nat. Rev. Genet.*, 16: 321-332
 
+**Lillicrap, T. *et al*. (2020).** Backpropagation and the brain. *Nat. Rev. Neurosci.*, 21(6): 335-346
+
 **Litjens, G. *et al*. (2017).** A survey on deep learning in medical image analysis. *Retrieved from* [arXiv:1702.05747](https://arxiv.org/abs/1702.05747)
 
 **Lotte, F. *et al*. (2018).** A review of classification algorithms for EEG-based brain-computer interfaces: a 10 year update. *J. Neural Eng.*, 15: 031005

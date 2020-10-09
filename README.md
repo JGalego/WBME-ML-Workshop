@@ -72,32 +72,24 @@ In this workshop, we will give an overview of what ML is, highlighting some of i
 
 #### Basic
 
-<style>
-.books img {
-  width: 30vw;
-  height: 20vw;
-  max-width: 13%
-}
-</style>
-
 <div class="row">
   <div class="column">
-    <img src="images/books/domingos_2015.jpg" title="Domingos, P. (2015) | The Master Algorithm | 1st edition | Basic Books" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/gerrish_2018.jpg" title="Gerrish, S. (2018) | How Smart Machines Think | 1st edition | MIT Press" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/hofstadter_1999.jpg" title="Hofstadter, D. (1999) | Gödel, Escher, Bach: An Eternal Godel Braid | 20th Anniversary Edition | Penguin Books" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/lawry_2020.jpg" title="Lawry, T. (2020) | AI in Health | 1st edition | Routledge" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/marcus_davis_2019.jpg" title="Marcus, G. & Davis, E. (2019) | Rebooting AI | 1st edition | Pantheon" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/mitchell_2019.jpg" title="Mitchell, M. (2019) | Artificial Intelligence | 1st edition | Pelican Books" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/oliveira_2017.jpg" title="Oliveira, A. (2017) | The Digital Mind | 1st edition | MIT Press" width="30vw" height="20vw" max-width="13%">
+    <img src="images/books/domingos_2015.jpg" title="Domingos, P. (2015) | The Master Algorithm | 1st edition | Basic Books" width="100" height="150">
+    <img src="images/books/gerrish_2018.jpg" title="Gerrish, S. (2018) | How Smart Machines Think | 1st edition | MIT Press" width="100" height="150">
+    <img src="images/books/hofstadter_1999.jpg" title="Hofstadter, D. (1999) | Gödel, Escher, Bach: An Eternal Godel Braid | 20th Anniversary Edition | Penguin Books" width="100" height="150">
+    <img src="images/books/lawry_2020.jpg" title="Lawry, T. (2020) | AI in Health | 1st edition | Routledge" width="100" height="150">
+    <img src="images/books/marcus_davis_2019.jpg" title="Marcus, G. & Davis, E. (2019) | Rebooting AI | 1st edition | Pantheon" width="100" height="150">
+    <img src="images/books/mitchell_2019.jpg" title="Mitchell, M. (2019) | Artificial Intelligence | 1st edition | Pelican Books" width="100" height="150">
+    <img src="images/books/oliveira_2017.jpg" title="Oliveira, A. (2017) | The Digital Mind | 1st edition | MIT Press" width="100" height="150">
   </div>
   <div class="column">
-    <img src="images/books/russell_2019.jpg" title="Russell, S. (2019) | Human Compatible | 1st edition | Viking" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/sejnowski_2018.jpg" title="Sejnowski, T. (2018) | The Deep Learning Revolution | 1st edition | MIT Press" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/spiegelhalter_2019.jpg" title="Spiegelhalter, D. (2019) | The Art of Statistics | 1st edition | Pelican Books" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/stephens_davidowitz_2017.jpg" title="Stephens-Davidowitz, S. (2017) | Everybody Lies | 1st edition | Dey Street Books" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/tegmark_2017.jpg" title="Tegmark, M. (2017) | Life 3.0 | 1st edition | Vintage" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/topol_2019.jpg" title="Topol, E. (2019) | Deep Medicine | 1st edition | Basic Books" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/wachter_2015.jpg" title="Wachter, R. (2015) | The Digital Doctor | 1st edition | McGraw-Hill Education" width="30vw" height="20vw" max-width="13%">
+    <img src="images/books/russell_2019.jpg" title="Russell, S. (2019) | Human Compatible | 1st edition | Viking" width="100" height="150">
+    <img src="images/books/sejnowski_2018.jpg" title="Sejnowski, T. (2018) | The Deep Learning Revolution | 1st edition | MIT Press" width="100" height="150">
+    <img src="images/books/spiegelhalter_2019.jpg" title="Spiegelhalter, D. (2019) | The Art of Statistics | 1st edition | Pelican Books" width="100" height="150">
+    <img src="images/books/stephens_davidowitz_2017.jpg" title="Stephens-Davidowitz, S. (2017) | Everybody Lies | 1st edition | Dey Street Books" width="100" height="150">
+    <img src="images/books/tegmark_2017.jpg" title="Tegmark, M. (2017) | Life 3.0 | 1st edition | Vintage" width="100" height="150">
+    <img src="images/books/topol_2019.jpg" title="Topol, E. (2019) | Deep Medicine | 1st edition | Basic Books" width="100" height="150">
+    <img src="images/books/wachter_2015.jpg" title="Wachter, R. (2015) | The Digital Doctor | 1st edition | McGraw-Hill Education" width="100" height="150">
   </div>
 </div>
 
@@ -105,22 +97,22 @@ In this workshop, we will give an overview of what ML is, highlighting some of i
 
 <div class="row">
   <div class="column">
-    <img src="images/books/bishop_2006.jpg" title="Bishop, C. (2006) | Pattern Recognition and Machine Learning | 1st edition | Springer" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/bratko_2011.jpg" title="Bratko, I. (2011) | Prolog Programming for Artificial Intelligence | 4th edition | Addison-Wesley" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/chollet_2017.jpg" title="Chollet, F. (2017) | Deep Learning with Python | 1st edition | Manning" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/efron_hastie_2016.jpg" title="Efron, B. & Hastie, T. (2016) | Computer Age Statistical Inference | 1st edition | Cambridge University Press" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/geron_2017.jpg" title="Géron, A. (2017) | Hands-On Machine Learning with Scikit-Learn and Tensorflow | 2nd edition | O’Reilly" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/goodfellow_bengio_courville_2016.jpg" title="Goodfellow, I., Bengio, Y. & Courville, A. (2016) | Deep Learning | 1st edition | MIT Press" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/grus_2019.jpg" title="Grus, J. (2019) | Data Science from Scratch: First Principles with Python | 2nd edition | O’Reilly" width="30vw" height="20vw" max-width="13%">
+    <img src="images/books/bishop_2006.jpg" title="Bishop, C. (2006) | Pattern Recognition and Machine Learning | 1st edition | Springer" width="100" height="150">
+    <img src="images/books/bratko_2011.jpg" title="Bratko, I. (2011) | Prolog Programming for Artificial Intelligence | 4th edition | Addison-Wesley" width="100" height="150">
+    <img src="images/books/chollet_2017.jpg" title="Chollet, F. (2017) | Deep Learning with Python | 1st edition | Manning" width="100" height="150">
+    <img src="images/books/efron_hastie_2016.jpg" title="Efron, B. & Hastie, T. (2016) | Computer Age Statistical Inference | 1st edition | Cambridge University Press" width="100" height="150">
+    <img src="images/books/geron_2017.jpg" title="Géron, A. (2017) | Hands-On Machine Learning with Scikit-Learn and Tensorflow | 2nd edition | O’Reilly" width="100" height="150">
+    <img src="images/books/goodfellow_bengio_courville_2016.jpg" title="Goodfellow, I., Bengio, Y. & Courville, A. (2016) | Deep Learning | 1st edition | MIT Press" width="100" height="150">
+    <img src="images/books/grus_2019.jpg" title="Grus, J. (2019) | Data Science from Scratch: First Principles with Python | 2nd edition | O’Reilly" width="100" height="150">
   </div>
   <div class="column">
-    <img src="images/books/mitchell_1997.jpg" title="Mitchell, T. (1997) | Machine Learning | 1st edition | MacGraw-Hill" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/mohri_rostamizadeh_talwalkar_2018.jpg" title="Mohri, M., Rostamizadeh, A. & Talwalkar, A. (2018) | Foundations of Machine Learning | 2nd edition | MIT Press" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/nordlinger_villani_rus_2020.jpg" title="Nordlinger, B., Villani, C. & Rus, D. (2020) | Healthcare and Artificial Intelligence | 1st edition | Springer" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/norvig_1992.jpg" title="Norvig, P. (1992) | Paradigms of Artificial Intelligence | 1st edition | Morgan Kaufmann" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/ramsundar_et_al_2020.jpg" title="Ramsundar, B. et al. (2020) | Deep Learning for the Life Sciences | 1st edition | O’Reilly" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/russell_norvig_2020.jpg" title="Russell, S. & Norvig, P. (2020) | Artificial Intelligence: A Modern Approach | 4th edition | Prentice Hall" width="30vw" height="20vw" max-width="13%">
-    <img src="images/books/sutton_barto_2018.jpg" title="Sutton, R. & Barto, A. (2018) | Reinforcement Learning: An Introduction | 2nd edition | MIT Press" width="30vw" height="20vw" max-width="13%">
+    <img src="images/books/mitchell_1997.jpg" title="Mitchell, T. (1997) | Machine Learning | 1st edition | MacGraw-Hill" width="100" height="150">
+    <img src="images/books/mohri_rostamizadeh_talwalkar_2018.jpg" title="Mohri, M., Rostamizadeh, A. & Talwalkar, A. (2018) | Foundations of Machine Learning | 2nd edition | MIT Press" width="100" height="150">
+    <img src="images/books/nordlinger_villani_rus_2020.jpg" title="Nordlinger, B., Villani, C. & Rus, D. (2020) | Healthcare and Artificial Intelligence | 1st edition | Springer" width="100" height="150">
+    <img src="images/books/norvig_1992.jpg" title="Norvig, P. (1992) | Paradigms of Artificial Intelligence | 1st edition | Morgan Kaufmann" width="100" height="150">
+    <img src="images/books/ramsundar_et_al_2020.jpg" title="Ramsundar, B. et al. (2020) | Deep Learning for the Life Sciences | 1st edition | O’Reilly" width="100" height="150">
+    <img src="images/books/russell_norvig_2020.jpg" title="Russell, S. & Norvig, P. (2020) | Artificial Intelligence: A Modern Approach | 4th edition | Prentice Hall" width="100" height="150">
+    <img src="images/books/sutton_barto_2018.jpg" title="Sutton, R. & Barto, A. (2018) | Reinforcement Learning: An Introduction | 2nd edition | MIT Press" width="100" height="150">
   </div>
 </div>
 

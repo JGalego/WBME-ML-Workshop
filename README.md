@@ -37,21 +37,21 @@ In this workshop, we will give an overview of what ML is, highlighting some of i
 
 ## Agenda
 
-1. Overview of Artificial Intelligence and Machine Learning (40 mins)
+1. Overview of Artificial Intelligence and Machine Learning **(40 mins)**
     * Historical Perspective
-    * Definition of AI
-    * Definition of ML
+    * AI Definition
+    * ML Definition
     * Traditional Programming vs. ML
     * ML Applications
     * ML Pipeline
     * Learning Scenarios
-    * ML Algorithms
     * The “Five Tribes” of ML
     * Performance Evaluation
     * ML Algorithms
         - Decision Trees
         - Support Vector Machines
         - Neural Networks
+    * Debugging Problems
     *	Main challenges
 
 2.	Machine Learning in Medicine and Healthcare **(30 mins)**

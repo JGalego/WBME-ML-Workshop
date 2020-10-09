@@ -16,6 +16,27 @@ Nevertheless, putting buzzwords and hype aside is often hard, especially when we
 
 In this workshop, we will give an overview of what ML is, highlighting some of its applications to the health sector - from the rise of expert systems in the 80s to the diagnosis, prognosis and treatment of COVID-19 - how it is shaping the present and how it may one day decide our future.
 
+<div class="row">
+  <div class="column">
+    <img src="images/gifs/watson_on_jeopardy.gif" title="Watson on Jeopardy" width="200" height="125">
+    <img src="images/gifs/deep_fake.gif" title="Deep Fake" width="200" height="125">
+    <img src="images/gifs/atari_deepmind.gif" title="DeepMind and Atari 2600" width="200" height="125">
+    <img src="images/gifs/tesla_autonomous_driving.gif" title="Tesla and Autonomous Driving" width="200" height="125">
+  </div>
+  <div class="column">
+    <img src="images/gifs/alphago.gif" title="DeepMind and AlphaGo" width="200" height="125">
+    <img src="images/gifs/mit_jenga.gif" title="MIT Jenga" width="200" height="125">
+    <img src="images/gifs/robot_surgery.gif" title="Robot Surgery" width="200" height="125">
+    <img src="images/gifs/chest_ct_interpretation.gif" title="Chest CT Interpretation" width="200" height="125">
+  </div>
+  <div class="column">
+    <img src="images/gifs/skin_image_analysis.gif" title="Skin Image Analysis" width="200" height="125">
+    <img src="images/gifs/diabetic_retinopathy_diagnosis.gif" title="Diabetic Retinopathy Diagnosis" width="200" height="125">
+    <img src="images/gifs/brain_tumor_detection.gif" title="Brain Tumor Detection" width="200" height="125">
+    <img src="images/gifs/bci.gif" title="Brain-Computer Interfaces" width="200" height="125">
+  </div>
+</div>
+
 ## Agenda
 
 1. Overview of Artificial Intelligence and Machine Learning (40 mins)
@@ -49,7 +70,7 @@ In this workshop, we will give an overview of what ML is, highlighting some of i
         - **(Steiner *et al.*, 2018; Wu *et al.*, 2019)** Oncology: Breast Cancer Screening
         - **(Harutyunyan *et al.*, 2019)** General Practice: Clinical Event Prediction
         - **(Libbrecht & Noble, 2019; Zou *et al.*, 2019)** AI/ML in Genetics and Genomics
-        - **(AWS)** NLP in Healthcare: Amazon Comprehend Medical
+        - **(AWS)** NLP in Healthcare: [Amazon Comprehend Medical](https://aws.amazon.com/comprehend/medical/)
         - **(Harmon *et al.*, 2020)** COVID-19 Diagnosis
         - **(Yan *et al.*, 2020)** COVID-19 Prognosis
         - **(Arshadi *et al.*, 2020)** COVID-19 Treatment

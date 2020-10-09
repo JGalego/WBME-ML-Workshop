@@ -10,9 +10,7 @@ In a world powered by technology, where smartphones have more computing power th
 
 However, in the advent of the [4th Industrial Revolution](https://www.salesforce.com/blog/2018/12/what-is-the-fourth-industrial-revolution-4IR.html), data is growing faster than it can be analyzed and classic algorithms have been unable to cope with this Big Data explosion. This is where Artificial Intelligence (AI), and Machine Learning (ML) in particular, really shine. 
 
-ML systems learn directly from data without being explicitly told to do so, and they have found enormous success in such tasks as email filtering, computer-aided diagnostics (CADx) and autonomous driving. Companies like Facebook, Amazon, Netflix and Google are investing heavily on AI, and ML engineer and data scientist positions are among the highest paid and “sexiest” jobs of the early 21st century. 
-
-Nevertheless, putting buzzwords and hype aside is often hard, especially when we lack a basic understanding of how these systems actually work. 
+ML systems learn directly from data without being explicitly told to do so, and they have found enormous success in such tasks as email filtering, computer-aided diagnostics (CADx) and autonomous driving. Companies like Facebook, Amazon, Netflix and Google are investing heavily on AI, and ML engineer and data scientist positions are among the highest paid and “sexiest” jobs of the early 21st century. Nevertheless, putting buzzwords and hype aside is often hard, especially when we lack a basic understanding of how these systems actually work.
 
 In this workshop, we will give an overview of what ML is, highlighting some of its applications to the health sector - from the rise of expert systems in the 80s to the diagnosis, prognosis and treatment of COVID-19 - how it is shaping the present and how it may one day decide our future.
 
@@ -70,6 +68,7 @@ In this workshop, we will give an overview of what ML is, highlighting some of i
         - **(Steiner *et al.*, 2018; Wu *et al.*, 2019)** Oncology: Breast Cancer Screening
         - **(Harutyunyan *et al.*, 2019)** General Practice: Clinical Event Prediction
         - **(Libbrecht & Noble, 2019; Zou *et al.*, 2019)** AI/ML in Genetics and Genomics
+        - **(Zhou *et al.*, 2020)** AI/ML in Surgery: Pre-Operative Planning, Intra-Operative Guidance and Surgical Robots
         - **(AWS)** NLP in Healthcare: [Amazon Comprehend Medical](https://aws.amazon.com/comprehend/medical/)
         - **(Harmon *et al.*, 2020)** COVID-19 Diagnosis
         - **(Yan *et al.*, 2020)** COVID-19 Prognosis
@@ -224,6 +223,8 @@ In this workshop, we will give an overview of what ML is, highlighting some of i
 **Yu, K. *et al*. (2018).** Artificial intelligence in healthcare. *Nat. Biomed. Eng.*, 2: 719-731
 
 **Yu, W. *et al*. (2010).** Application of support vector machine modeling for prediction of common diseases: the case of diabetes and pre-diabetes. *BMC Med. Inform. Decis.*, 10: 16-23
+
+**Zhou, X. *et al.* (2020).** Artificial intelligence in surgery. *Retrieved from* [arXiv:2001.00627](https://arxiv.org/abs/2001.00627)
 
 **Zou, J. *et al.* (2019).** A primer on deep learning in genomics. *Nat. Gen.*, 51: 12-18
 

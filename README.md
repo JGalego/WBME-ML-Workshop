@@ -4,6 +4,8 @@
 
 ## Overview
 
+> For more information about the event, please visit [12th WBME - Workshop on Biomedical Engineering](http://wbme.fc.ul.pt/)
+
 The ubiquity of algorithms and data is one of the hallmarks of the <span title="According to Merriam-Webster, 'the modern age regarded as a time in which information has become a commodity that is quickly and widely disseminated and easily available especially through the use of computer technology'">Information Age</div>. In a world powered by technology, where smartphones have more computing power than [all of NASA’s computers during the Apollo missions](https://www.youtube.com/watch?v=BRZz0SVLdso), algorithms run virtually everything.
 
 However, in the advent of the [4th Industrial Revolution](https://www.salesforce.com/blog/2018/12/what-is-the-fourth-industrial-revolution-4IR.html), data is growing faster than it can be analyzed and classic algorithms have been unable to cope with this [Big Data explosion](https://www.internetlivestats.com/). This is where Artificial Intelligence (AI), and Machine Learning (ML) in particular, really shine. 

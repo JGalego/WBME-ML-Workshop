@@ -2,9 +2,69 @@
 
 <img src="images/wbme.png" width="300"/>
 
-## Abstract
+## Overview
 
-The ubiquity of algorithms and data is one of the hallmarks of the Information Age. In a world powered by technology, where smartphones have more computing power than all of NASA’s computers back in the 1960s, algorithms run virtually everything. However, in the advent of the 4th Industrial Revolution, data is growing faster than it can be analyzed and classic algorithms have been unable to cope with this Big Data explosion. This is where Artificial Intelligence (AI), and Machine Learning (ML) in particular, really shine. ML systems learn directly from data without being explicitly told to do so, and they have found enormous success in such tasks as email filtering, computer-aided diagnostics (CADx) and autonomous driving. Companies like Facebook, Amazon, Netflix and Google are investing heavily on AI, and ML engineer and data scientist positions are among the highest paid and “sexiest” jobs of the early 21st century. Nevertheless, putting buzzwords and hype aside is often hard, especially when we lack a basic understanding of how these systems actually work. In this workshop, we will give an overview of what ML is, highlighting some of its applications to the health sector - from the rise of expert systems in the 80s to the diagnosis, prognosis and treatment of COVID-19 - how it is shaping the present and how it may one day decide our future.
+The ubiquity of algorithms and data is one of the hallmarks of the <span title="According to Merriam-Webster, 'the modern age regarded as a time in which information has become a commodity that is quickly and widely disseminated and easily available especially through the use of computer technology'">Information Age</div>.
+
+In a world powered by technology, where smartphones have more computing power than [all of NASA’s computers back in the 1960s](https://www.youtube.com/watch?v=BRZz0SVLdso), algorithms run virtually everything.
+
+However, in the advent of the [4th Industrial Revolution](https://www.salesforce.com/blog/2018/12/what-is-the-fourth-industrial-revolution-4IR.html), data is growing faster than it can be analyzed and classic algorithms have been unable to cope with this Big Data explosion. This is where Artificial Intelligence (AI), and Machine Learning (ML) in particular, really shine. 
+
+ML systems learn directly from data without being explicitly told to do so, and they have found enormous success in such tasks as email filtering, computer-aided diagnostics (CADx) and autonomous driving. Companies like Facebook, Amazon, Netflix and Google are investing heavily on AI, and ML engineer and data scientist positions are among the highest paid and “sexiest” jobs of the early 21st century. 
+
+Nevertheless, putting buzzwords and hype aside is often hard, especially when we lack a basic understanding of how these systems actually work. 
+
+In this workshop, we will give an overview of what ML is, highlighting some of its applications to the health sector - from the rise of expert systems in the 80s to the diagnosis, prognosis and treatment of COVID-19 - how it is shaping the present and how it may one day decide our future.
+
+## Agenda
+
+1. Overview of Artificial Intelligence and Machine Learning (40 mins)
+    * Historical Perspective
+    * Definition of AI
+    * Definition of ML
+    * Traditional Programming vs. ML
+    * ML Applications
+    * ML Pipeline
+    * Learning Scenarios
+    * ML Algorithms
+    * The “Five Tribes” of ML
+    * Performance Evaluation
+    * ML Algorithms
+        - Decision Trees
+        - Support Vector Machines
+        - Neural Networks
+    *	Main challenges
+
+2.	Machine Learning in Medicine and Healthcare **(30 mins)**
+    * Patient data
+        - Consumer health wearables
+        - Electronic health records (EHR)
+    * Case-Studies
+        - **(Wu *et al.*, 2010)** Endocrinology: Diabetes Detection
+        - **(Norvig, 1992)** Hematology: MYCIN
+        - **(Szolovitz, 1982)** Internal Medicine: Caduceus
+        - **(Esteva *et al.*, 2017)** Dermatology: Skin Lesion Classification
+        - **(Majkowska *et al.*, 2019)** Pneumology/Radiology: Chest X-Ray Interpretation
+        - **(Raman *et al.*, 2019)** Ophthalmology: Diabetic Retinopathy Detection
+        - **(Steiner *et al.*, 2018; Wu *et al.*, 2019)** Oncology: Breast Cancer Screening
+        - **(Harutyunyan *et al.*, 2019)** General Practice: Clinical Event Prediction
+        - **(Libbrecht & Noble, 2019; Zou *et al.*, 2019)** AI/ML in Genetics and Genomics
+        - **(AWS)** NLP in Healthcare: Amazon Comprehend Medical
+        - **(Harmon *et al.*, 2020)** COVID-19 Diagnosis
+        - **(Yan *et al.*, 2020)** COVID-19 Prognosis
+        - **(Arshadi *et al.*, 2020)** COVID-19 Treatment
+
+3.	Opportunities, Challenges and Future Prospects **(20 mins)**
+    * AI/ML in Healthcare: Benefits and Drawbacks
+    * Opportunities
+        - ML and Ethics
+        - ML and Cloud Computing
+        - Federated Learning in Healthcare
+    * Future Directions
+        - Green Models
+        - Pattern Recognition + Symbolic AI
+        - MLOps
+        - Quantum Machine Learning
 
 ## References
 
@@ -12,43 +72,55 @@ The ubiquity of algorithms and data is one of the hallmarks of the Information A
 
 #### Basic
 
+<style>
+.books img {
+  width: 30vw;
+  height: 20vw;
+  max-width: 13%
+}
+</style>
+
 <div class="row">
-  <div class="column">
-    <img src="images/books/domingos_2015.jpg" title="Domingos, P. (2015) | The Master Algorithm | 1st edition | Basic Books" width="100" height="150">
-    <img src="images/books/gerrish_2018.jpg" title="Gerrish, S. (2018) | How Smart Machines Think | 1st edition | MIT Press" width="100" height="150">
-    <img src="images/books/hofstadter_1999.jpg" title="Hofstadter, D. (1999) | Gödel, Escher, Bach: An Eternal Godel Braid | 20th Anniversary Edition | Penguin Books" width="100" height="150">
-    <img src="images/books/kurzweil_2012.jpg" title="Kurzweil, R. (2012) | How to Create a Mind | 1st edition | Penguin Books" width="100" height="150">
-    <img src="images/books/marcus_davis_2019.jpg" title="Marcus, G. & Davis, E. (2019) | Rebooting AI | 1st edition | Pantheon" width="100" height="150">
-    <img src="images/books/mitchell_2019.jpg" title="Mitchell, M. (2019) | Artificial Intelligence | 1st edition | Pelican Books" width="100" height="150">
+  <div class="books">
+    <img src="images/books/domingos_2015.jpg" title="Domingos, P. (2015) | The Master Algorithm | 1st edition | Basic Books" class="book">
+    <img src="images/books/gerrish_2018.jpg" title="Gerrish, S. (2018) | How Smart Machines Think | 1st edition | MIT Press" class="book">
+    <img src="images/books/hofstadter_1999.jpg" title="Hofstadter, D. (1999) | Gödel, Escher, Bach: An Eternal Godel Braid | 20th Anniversary Edition | Penguin Books" class="book">
+    <img src="images/books/lawry_2020.jpg" title="Lawry, T. (2020) | AI in Health | 1st edition | Routledge" class="book">
+    <img src="images/books/marcus_davis_2019.jpg" title="Marcus, G. & Davis, E. (2019) | Rebooting AI | 1st edition | Pantheon" class="book">
+    <img src="images/books/mitchell_2019.jpg" title="Mitchell, M. (2019) | Artificial Intelligence | 1st edition | Pelican Books" class="book">
+    <img src="images/books/oliveira_2017.jpg" title="Oliveira, A. (2017) | The Digital Mind | 1st edition | MIT Press" class="book">
   </div>
-  <div class="column">
-    <img src="images/books/oliveira_2017.jpg" title="Oliveira, A. (2017) | The Digital Mind | 1st edition | MIT Press" width="100" height="150">
-    <img src="images/books/russell_2019.jpg" title="Russell, S. (2019) | Human Compatible | 1st edition | Viking" width="100" height="150">
-    <img src="images/books/sejnowski_2018.jpg" title="Sejnowski, T. (2018) | The Deep Learning Revolution | 1st edition | MIT Press" width="100" height="150">
-    <img src="images/books/spiegelhalter_2019.jpg" title="Spiegelhalter, D. (2019) | The Art of Statistics | 1st edition | Pelican Books" width="100" height="150">
-    <img src="images/books/stephens_davidowitz_2017.jpg" title="Stephens-Davidowitz, S. (2017) | Everybody Lies | 1st edition | Dey Street Books" width="100" height="150">
-    <img src="images/books/tegmark_2017.jpg" title="Tegmark, M. (2017) | Life 3.0 | 1st edition | Vintage" width="100" height="150">
+  <div class="books">
+    <img src="images/books/russell_2019.jpg" title="Russell, S. (2019) | Human Compatible | 1st edition | Viking" class="book">
+    <img src="images/books/sejnowski_2018.jpg" title="Sejnowski, T. (2018) | The Deep Learning Revolution | 1st edition | MIT Press" class="book">
+    <img src="images/books/spiegelhalter_2019.jpg" title="Spiegelhalter, D. (2019) | The Art of Statistics | 1st edition | Pelican Books" class="book">
+    <img src="images/books/stephens_davidowitz_2017.jpg" title="Stephens-Davidowitz, S. (2017) | Everybody Lies | 1st edition | Dey Street Books" class="book">
+    <img src="images/books/tegmark_2017.jpg" title="Tegmark, M. (2017) | Life 3.0 | 1st edition | Vintage" class="book">
+    <img src="images/books/topol_2019.jpg" title="Topol, E. (2019) | Deep Medicine | 1st edition | Basic Books" class="book">
+    <img src="images/books/wachter_2015.jpg" title="Wachter, R. (2015) | The Digital Doctor | 1st edition | McGraw-Hill Education" class="book">
   </div>
 </div>
 
 #### Advanced
 
 <div class="row">
-  <div class="column">
-    <img src="images/books/bishop_2006.jpg" title="Bishop, C. (2006) | Pattern Recognition and Machine Learning | 1st edition | Springer" width="100" height="150">
-    <img src="images/books/bratko_2011.jpg" title="Bratko, I. (2011) | Prolog Programming for Artificial Intelligence | 4th edition | Addison-Wesley" width="100" height="150">
-    <img src="images/books/chollet_2017.jpg" title="Chollet, F. (2017) | Deep Learning with Python | 1st edition | Manning" width="100" height="150">
-    <img src="images/books/efron_hastie_2016.jpg" title="Efron, B. & Hastie, T. (2016) | Computer Age Statistical Inference | 1st edition | Cambridge University Press" width="100" height="150">
-    <img src="images/books/geron_2017.jpg" title="Géron, A. (2017) | Hands-On Machine Learning with Scikit-Learn and Tensorflow | 2nd edition | O’Reilly" width="100" height="150">
-    <img src="images/books/goodfellow_bengio_courville_2016.jpg" title="Goodfellow, I., Bengio, Y. & Courville, A. (2016) | Deep Learning | 1st edition | MIT Press" width="100" height="150">
+  <div class="books">
+    <img src="images/books/bishop_2006.jpg" title="Bishop, C. (2006) | Pattern Recognition and Machine Learning | 1st edition | Springer" class="book">
+    <img src="images/books/bratko_2011.jpg" title="Bratko, I. (2011) | Prolog Programming for Artificial Intelligence | 4th edition | Addison-Wesley" class="book">
+    <img src="images/books/chollet_2017.jpg" title="Chollet, F. (2017) | Deep Learning with Python | 1st edition | Manning" class="book">
+    <img src="images/books/efron_hastie_2016.jpg" title="Efron, B. & Hastie, T. (2016) | Computer Age Statistical Inference | 1st edition | Cambridge University Press" class="book">
+    <img src="images/books/geron_2017.jpg" title="Géron, A. (2017) | Hands-On Machine Learning with Scikit-Learn and Tensorflow | 2nd edition | O’Reilly" class="book">
+    <img src="images/books/goodfellow_bengio_courville_2016.jpg" title="Goodfellow, I., Bengio, Y. & Courville, A. (2016) | Deep Learning | 1st edition | MIT Press" class="book">
+    <img src="images/books/grus_2019.jpg" title="Grus, J. (2019) | Data Science from Scratch: First Principles with Python | 2nd edition | O’Reilly" class="book">
   </div>
-  <div class="column">
-    <img src="images/books/mitchell_1997.jpg" title="Mitchell, T. (1997) | Machine Learning | 1st edition | MacGraw-Hill" width="100" height="150">
-    <img src="images/books/mohri_rostamizadeh_talwalkar_2018.jpg" title="Mohri, M., Rostamizadeh, A. & Talwalkar, A. (2018) | Foundations of Machine Learning | 2nd edition | MIT Press" width="100" height="150">
-    <img src="images/books/norvig_1992.jpg" title="Norvig, P. (1992) | Paradigms of Artificial Intelligence | 1st edition | Morgan Kaufmann" width="100" height="150">
-    <img src="images/books/russell_norvig_2020.jpg" title="Russell, S. & Norvig, P- (2020) | Artificial Intelligence: A Modern Approach | 4th edition | Prentice Hall" width="100" height="150">
-    <img src="images/books/sutton_barto_2018.jpg" title="Sutton, R. & Barto, A. (2018) | Reinforcement Learning: An Introduction | 2nd edition | MIT Press" width="100" height="150">
-    <img src="images/books/grus_2019.jpg" title="Grus, J. (2019) | Data Science from Scratch: First Principles with Python | 2nd edition | O’Reilly" width="100" height="150">
+  <div class="books">
+    <img src="images/books/mitchell_1997.jpg" title="Mitchell, T. (1997) | Machine Learning | 1st edition | MacGraw-Hill" class="book">
+    <img src="images/books/mohri_rostamizadeh_talwalkar_2018.jpg" title="Mohri, M., Rostamizadeh, A. & Talwalkar, A. (2018) | Foundations of Machine Learning | 2nd edition | MIT Press" class="book">
+    <img src="images/books/nordlinger_villani_rus_2020.jpg" title="Nordlinger, B., Villani, C. & Rus, D. (2020) | Healthcare and Artificial Intelligence | 1st edition | Springer" class="book">
+    <img src="images/books/norvig_1992.jpg" title="Norvig, P. (1992) | Paradigms of Artificial Intelligence | 1st edition | Morgan Kaufmann" class="book">
+    <img src="images/books/ramsundar_et_al_2020.jpg" title="Ramsundar, B. et al. (2020) | Deep Learning for the Life Sciences | 1st edition | O’Reilly" class="book">
+    <img src="images/books/russell_norvig_2020.jpg" title="Russell, S. & Norvig, P. (2020) | Artificial Intelligence: A Modern Approach | 4th edition | Prentice Hall" class="book">
+    <img src="images/books/sutton_barto_2018.jpg" title="Sutton, R. & Barto, A. (2018) | Reinforcement Learning: An Introduction | 2nd edition | MIT Press" class="book">
   </div>
 </div>
 
@@ -82,6 +154,8 @@ The ubiquity of algorithms and data is one of the hallmarks of the Information A
 
 **Kalis, B., Collier, M. & Fu, R. (2018).** 10 promising AI applications in health care. *Retrieved from* [Harvard Business Review](https://hbr.org/2018/05/10-promising-ai-applications-in-health-care)
 
+**Libbrecht, M. & Noble, S. (2015).** Machine learning applications in genetics and genomics. *Nat. Rev. Genet.*, 16: 321-332
+
 **Litjens, G. *et al*. (2017).** A survey on deep learning in medical image analysis. *Retrieved from* [arXiv:1702.05747](https://arxiv.org/abs/1702.05747)
 
 **Lotte, F. *et al*. (2018).** A review of classification algorithms for EEG-based brain-computer interfaces: a 10 year update. *J. Neural Eng.*, 15: 031005
@@ -104,7 +178,13 @@ The ubiquity of algorithms and data is one of the hallmarks of the Information A
 
 **Ribeiro, M., Singh, S. & Guestrin, C. (2016).** “Why should I trust you?” Explaining the predictions of any classifier. *Retrieved from* [arXiv:1602.04938](https://arxiv.org/abs/1602.04938)
 
+**Rieke, N. *et al.* (2020).** The future of digital health with federated learning. *Retrieved from* [arXiv:2003:08119](https://arxiv.org/abs/2003.08119)
+
+**Samuel, A. (1959).** Some studies in machine learning using the game of checkers. *IBM Journal*, 3(3): 535-554
+
 **Sculley, D. *et al*. (2015).** Hidden technical debt in machine learning systems. [*Adv. Neur. Inform. Proc. Syst.*](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-28-2015), 28: 2503-2511.
+
+**Sheller, M. *et al.* (2020).** Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data. *Scientific Reports*, 10(1): 1-12
 
 **Simeone, O. (2017).** A brief introduction to machine learning for engineers. *Retrieved from* [arXiv:1709.02840](https://arxiv.org/pdf/1709.02840.pdf)
 
@@ -132,6 +212,8 @@ The ubiquity of algorithms and data is one of the hallmarks of the Information A
 
 **Yu, W. *et al*. (2010).** Application of support vector machine modeling for prediction of common diseases: the case of diabetes and pre-diabetes. *BMC Med. Inform. Decis.*, 10: 16-23
 
+**Zou, J. *et al.* (2019).** A primer on deep learning in genomics. *Nat. Gen.*, 51: 12-18
+
 ### Links
 
 #### Courses
@@ -152,6 +234,7 @@ The ubiquity of algorithms and data is one of the hallmarks of the Information A
 
 * (GitHub) [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * (GitHub) [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* (GitHub) [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 #### Groups
 

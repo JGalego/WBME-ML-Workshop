@@ -69,6 +69,7 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
         - **(Harutyunyan *et al.*, 2019)** General Practice: Clinical Event Prediction
         - **(Libbrecht & Noble, 2019; Zou *et al.*, 2019)** AI/ML in Genetics and Genomics
         - **(Zhou *et al.*, 2020)** Surgery: Pre-Operative Planning, Intra-Operative Guidance and Surgical Robots
+        - **(Gottesman *et al.*, 2019; Komorowski *et al.*, 2018)** AI/ML in the ICU: Sepsis Treatment
         - **(AWS)** NLP in Healthcare: [Amazon Comprehend Medical](https://aws.amazon.com/comprehend/medical/)
         - **(Harmon *et al.*, 2020)** COVID-19 Diagnosis
         - **(Yan *et al.*, 2020)** COVID-19 Prognosis
@@ -156,6 +157,8 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
 
 **Ghassemi, M. *et al*. (2018).** A review of challenges and opportunities in machine learning for health. *Retrieved from* [arXiv:1806.00388](https://arxiv.org/abs/1806.00388)
 
+**Gottesman, O. *et al*. (2019).** Guidelines for reinforcement learning in healthcare. *Nat. Med.*, 25: 14-18
+
 **Harmon, S. *et al*. (2020).** Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets. *Nat. Commun.*, 11: 4080
 
 **Harutyunyan, H. *et al*. (2019).** Multitask learning and benchmarking with clinical time series data. *Sci. Data*, 6: 96 
@@ -165,6 +168,8 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
 **Jiang, F. *et al*. (2017).** Artificial intelligence in healthcare: past, present and future. *Stroke Vasc. Neurol.*, 2: e000101
 
 **Kalis, B., Collier, M. & Fu, R. (2018).** 10 promising AI applications in health care. *Retrieved from* [Harvard Business Review](https://hbr.org/2018/05/10-promising-ai-applications-in-health-care)
+
+**Komorowski, M. *et al*. (2018).** The artificial intelligence clinician learns optimal treatment strategies for sepsis in intensive care. *Nat. Med.*, 24: 1716-1720
 
 **Libbrecht, M. & Noble, S. (2015).** Machine learning applications in genetics and genomics. *Nat. Rev. Genet.*, 16: 321-332
 

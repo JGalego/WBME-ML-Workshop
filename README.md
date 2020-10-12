@@ -62,7 +62,7 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
         - **(Szolovitz, 1982)** Internal Medicine: Caduceus
         - **(Esteva *et al.*, 2017)** Dermatology: Skin Lesion Classification
         - **(Majkowska *et al.*, 2019)** Pneumology/Radiology: Chest X-Ray Interpretation
-        - **(Raman *et al.*, 2019)** Ophthalmology: Diabetic Retinopathy Detection
+        - **(Arcadu *et al.*, 2019; Raman *et al.*, 2019)** Ophthalmology: Diabetic Retinopathy Detection and Progression
         - **(Steiner *et al.*, 2018; Wu *et al.*, 2019)** Oncology: Breast Cancer Screening
         - **(Harutyunyan *et al.*, 2019)** General Practice: Clinical Event Prediction
         - **(Libbrecht & Noble, 2019; Zou *et al.*, 2019)** AI/ML in Genetics and Genomics
@@ -139,6 +139,8 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
 ### Articles
 
 **Altae-Tran, H. *et al*. (2017)**. Low data drug discovery with one-shot learning. *ACS Cent. Sci.*, 3: 283-293
+
+**Arcadu, F. *et al*. (2019)**. Deep learning algorithm predicts diabetic retinopathy progression in individual patients. *Npj Digit. Med.*, 2: 92-101
 
 **Arshadi, A. *et al*. (2020)**. Artificial intelligence for COVID-19 drug discovery and vaccine development. *Front. Artif. Intell.*, 3: 65
 

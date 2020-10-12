@@ -12,7 +12,7 @@ However, in the advent of the [4th Industrial Revolution](https://www.salesforce
 
 ML systems learn directly from data without being *explicitly* told to do so, and they have found enormous success in such tasks as email filtering, computer-aided diagnostics (CADx) and autonomous driving. Companies like Facebook, Amazon, Netflix and Google are investing heavily on AI, and ML engineer and data scientist positions are among the highest paid and “sexiest” jobs of the early 21st century. Nonetheless, getting past the hype and putting buzzwords aside is hard when one lacks a basic understanding of how these systems actually work. This is especially relevant in the health sector where transparency and accountability are of paramount importance.
 
-In this workshop, we will give an overview of what ML actually is, highlighting some of its applications to the health sector - from the rise of expert systems in the 80s to the diagnosis, prognosis and treatment of [SARS-Cov-2 (COVID-19)](https://www.worldometers.info/coronavirus/) - how it is shaping the present and how it may one day decide our future.
+In this workshop, we will give an overview of what ML actually is, highlighting some of its applications to the health sector - from the rise of expert systems in the 80s to the diagnosis, prognosis and treatment of [COVID-19](https://www.worldometers.info/coronavirus/) - how it is shaping the present and how it may one day decide our future.
 
 <div class="row">
   <div class="column">

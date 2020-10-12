@@ -24,11 +24,11 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
   <div class="column">
     <img src="images/gifs/alphago.gif" title="DeepMind and AlphaGo" width="200" height="125">
     <img src="images/gifs/mit_jenga.gif" title="MIT Jenga" width="200" height="125">
+    <img src="images/gifs/video_annotation.gif" title="Video Annotation" width="200" height="125">
     <img src="images/gifs/robot_surgery.gif" title="Robot Surgery" width="200" height="125">
-    <img src="images/gifs/chest_ct_interpretation.gif" title="Chest CT Interpretation" width="200" height="125">
   </div>
   <div class="column">
-    <img src="images/gifs/skin_image_analysis.gif" title="Skin Image Analysis" width="200" height="125">
+    <img src="images/gifs/chest_ct_interpretation.gif" title="Chest CT Interpretation" width="200" height="125">
     <img src="images/gifs/diabetic_retinopathy_diagnosis.gif" title="Diabetic Retinopathy Diagnosis" width="200" height="125">
     <img src="images/gifs/brain_tumor_detection.gif" title="Brain Tumor Detection" width="200" height="125">
     <img src="images/gifs/bci.gif" title="Brain-Computer Interfaces" width="200" height="125">
@@ -59,7 +59,7 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
     * Case Studies
         - **(Wu *et al.*, 2010)** Endocrinology: Diabetes Detection
         - **(Norvig, 1992)** Hematology: MYCIN
-        - **(Szolovitz, 1982)** Internal Medicine: Caduceus
+        - **(Szolovitz, 1982)** Internal Medicine: CADUCEUS
         - **(Esteva *et al.*, 2017)** Dermatology: Skin Lesion Classification
         - **(Majkowska *et al.*, 2019)** Pneumology/Radiology: Chest X-Ray Interpretation
         - **(Arcadu *et al.*, 2019; Raman *et al.*, 2019)** Ophthalmology: Diabetic Retinopathy Detection and Progression

@@ -16,22 +16,22 @@ In this workshop, we will give an overview of what ML actually is, highlighting 
 
 <div class="row">
   <div class="column">
-    <img src="images/gifs/watson_on_jeopardy.gif" title="Watson on Jeopardy" width="200" height="125">
-    <img src="images/gifs/deep_fake.gif" title="Deep Fake" width="200" height="125">
-    <img src="images/gifs/atari_deepmind.gif" title="DeepMind and Atari 2600" width="200" height="125">
-    <img src="images/gifs/tesla_autonomous_driving.gif" title="Tesla and Autonomous Driving" width="200" height="125">
+    <img src="images/gifs/watson_on_jeopardy.gif" title="Watson on Jeopardy" width="20%" height="125">
+    <img src="images/gifs/deep_fake.gif" title="Deep Fake" width="20%" height="125">
+    <img src="images/gifs/atari_deepmind.gif" title="DeepMind and Atari 2600" width="20%" height="125">
+    <img src="images/gifs/tesla_autonomous_driving.gif" title="Tesla and Autonomous Driving" width="20%" height="125">
   </div>
   <div class="column">
-    <img src="images/gifs/alphago.gif" title="DeepMind and AlphaGo" width="200" height="125">
-    <img src="images/gifs/mit_jenga.gif" title="MIT Jenga" width="200" height="125">
-    <img src="images/gifs/video_annotation.gif" title="Video Annotation" width="200" height="125">
-    <img src="images/gifs/robot_surgery.gif" title="Robot Surgery" width="200" height="125">
+    <img src="images/gifs/alphago.gif" title="DeepMind and AlphaGo" width="20%" height="125">
+    <img src="images/gifs/mit_jenga.gif" title="MIT Jenga" width="20%" height="125">
+    <img src="images/gifs/video_annotation.gif" title="Video Annotation" width="20%" height="125">
+    <img src="images/gifs/robot_surgery.gif" title="Robot Surgery" width="20%" height="125">
   </div>
   <div class="column">
-    <img src="images/gifs/chest_ct_interpretation.gif" title="Chest CT Interpretation" width="200" height="125">
-    <img src="images/gifs/diabetic_retinopathy_diagnosis.gif" title="Diabetic Retinopathy Diagnosis" width="200" height="125">
-    <img src="images/gifs/brain_tumor_detection.gif" title="Brain Tumor Detection" width="200" height="125">
-    <img src="images/gifs/bci.gif" title="Brain-Computer Interfaces" width="200" height="125">
+    <img src="images/gifs/chest_ct_interpretation.gif" title="Chest CT Interpretation" width="20%" height="125">
+    <img src="images/gifs/diabetic_retinopathy_diagnosis.gif" title="Diabetic Retinopathy Diagnosis" width="20%" height="125">
+    <img src="images/gifs/brain_tumor_detection.gif" title="Brain Tumor Detection" width="20%" height="125">
+    <img src="images/gifs/bci.gif" title="Brain-Computer Interfaces" width="20%" height="125">
   </div>
 </div>
 
